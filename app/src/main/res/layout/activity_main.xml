@@ -36,7 +36,8 @@
                 android:text="Login"
                 android:textStyle="bold"
                 android:layout_marginTop="10dp"
-                android:background="#3F51B5"
+                android:background="#03A9F4"
+                app:backgroundTint="@color/black"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"/>
         </LinearLayout>
